@@ -2,7 +2,7 @@
 
 import 'dart:convert';
 
-import 'package:ecommerce_amazonclone_flutter/common/widgets/bottom_bar.dart';
+// import 'package:ecommerce_amazonclone_flutter/common/widgets/bottom_bar.dart';
 import 'package:ecommerce_amazonclone_flutter/constants/error_handling.dart';
 import 'package:ecommerce_amazonclone_flutter/constants/global_variables.dart';
 import 'package:ecommerce_amazonclone_flutter/constants/utils.dart';

@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:ecommerce_amazonclone_flutter/constants/error_handling.dart';
 import 'package:ecommerce_amazonclone_flutter/constants/global_variables.dart';
 import 'package:ecommerce_amazonclone_flutter/constants/utils.dart';
-import 'package:ecommerce_amazonclone_flutter/features/auth/screens/auth_screen.dart';
+// import 'package:ecommerce_amazonclone_flutter/features/auth/screens/auth_screen.dart';
 import 'package:ecommerce_amazonclone_flutter/models/order.dart';
 import 'package:ecommerce_amazonclone_flutter/providers/user_provider.dart';
 import 'package:flutter/material.dart';
