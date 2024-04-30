@@ -25,13 +25,13 @@ Full Stack Amazon Clone along with Admin Panel
 
 
 <p align="center">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin1.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin2.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin3.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user1.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user2.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user3.png" alt="Image">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user4.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin1.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin2.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin3.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user1.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user2.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user3.png" alt="Image" style="max-width: 30%;">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user4.png" alt="Image" style="max-width: 30%;">
 </p>
 
 
