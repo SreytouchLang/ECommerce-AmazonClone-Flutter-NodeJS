@@ -23,11 +23,15 @@ Full Stack Amazon Clone along with Admin Panel
     - Viewing Total Earnings
     - Viewing Category Based Earnings (on Graph)
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/O3nmP-lZAdg) 
 
 <p align="center">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/master/screenshot.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin1.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin2.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin3.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user1.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user2.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user3.png" alt="Image">
+  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user4.png" alt="Image">
 </p>
 
 
