@@ -24,15 +24,15 @@ Full Stack Amazon Clone along with Admin Panel
     - Viewing Category Based Earnings (on Graph)
 
 
-<p align="center">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin1.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin2.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin3.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user1.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user2.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user3.png" alt="Image" width="250">
-  <img width="600" src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user4.png" alt="Image" width="250">
-</p>
+## Screenshots
+
+| Admin 1 | Admin 2 | Admin 3 |
+|   ---   |   ---   |   ---   |
+|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin1.png" alt="Image" width="250">|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin2.png" alt="Image" width="250">|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/admin3.png" alt="Image" width="250">|
+
+| User 1 | User 2 |  User 3 | User 4 | 
+|   ---  |  ---   |   ---   |   ---  |
+|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user1.png" alt="Image" width="250">|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user2.png" alt="Image" width="250">|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user3.png" alt="Image" width="250">|<img src="https://github.com/SreytouchLang/ECommerce-AmazonClone-Flutter-NodeJS/blob/main/screenshort/user4.png" alt="Image" width="250">|
 
 
 ## Running Locally
